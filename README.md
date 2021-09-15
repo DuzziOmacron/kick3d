@@ -3,6 +3,8 @@ Recon script for enumerating users off of the Kik API. This script has the abili
 
 Credits: @johnjhacking | @d0cksey | @DevMother
 
+Writeup: https://hacked-by-dev-null.blogspot.com/2021/09/scraping-kik-users-on-easy-mode.html
+
 # Usage
 Run the script
 ```
